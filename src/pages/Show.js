@@ -1,4 +1,3 @@
-
 import { useState } from "react";
 function Show(props) {
   const id = props.match.params.id;
